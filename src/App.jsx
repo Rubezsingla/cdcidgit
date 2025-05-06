@@ -11,7 +11,7 @@ function App() {
       <h1>Rubez Singla</h1>
       <h1>Github actions</h1>
       <h1>Github actions</h1>
-      <h1>Github actions</h1>
+     
       <h2>g</h2>
       
     </div>
