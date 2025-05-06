@@ -10,6 +10,8 @@ function App() {
     <div>
       <h1>Rubez Singla</h1>
       <h1>Github actions</h1>
+      <h1>Github actions</h1>
+      <h1>Github actions</h1>
       
     </div>
   )
